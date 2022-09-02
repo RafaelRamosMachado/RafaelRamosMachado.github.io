@@ -1,0 +1,60 @@
+#content {
+    width: 100px;
+    height: 100px;
+}
+
+#table td {
+    width: auto;
+    overflow: hidden;
+    word-wrap: break-word;
+}
+
+.mat-elevation-z8 {    
+    overflow-x: auto;
+}
+
+.create {
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.create h1 {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.create button {
+    width: 100%;
+    margin: 1rem auto;
+}
+
+.container {
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+table {
+    width: 100%;
+}
+
+#edit {
+    color: rgb(231, 235, 5);
+}
+
+#delete {
+    color: rgb(233, 92, 92);
+}
+
+td.baixa {
+    color: rgb(6, 255, 6);
+}
+
+td.media {
+    color: yellow;
+}
+
+td.alta {
+    color: red;
+}
